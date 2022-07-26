@@ -63,8 +63,8 @@ from Amanda.modules.helper_funcs.misc import paginate_modules
 from Amanda.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm 𝓐𝓶𝓪𝓷𝓭𝓪
-I'm a Powerful group manager bot With Cool Modules. Made by [𝒯𝒽𝒶𝓇𝓊𝓀 ℛℯ𝓃𝓊𝒿𝒶• 🇱🇰](t.me/TharukRenuja)
+Hello there, I'm LYN SUPPORT
+I'm a Powerful group manager bot With Cool Modules. Made by[CHIZIRO• 🇮🇩](t.me/craxydave)
 Hit /help to find my list of available commands
  
 """
