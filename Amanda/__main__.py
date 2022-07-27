@@ -72,15 +72,15 @@ Hit /help to find my list of available commands
 buttons = [
     [
         InlineKeyboardButton(
-            text="📢Updates Channel", url="https://t.me/SLBotsOfficial"
+            text="📢Updates Channel", url="https://t.me/zhiroproject"
         ),
         InlineKeyboardButton(
-            text="👥 Support Group", url="https://t.me/trtechguide"
+            text="👥 Support Group", url="https://t.me/animelovindo"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="📜Source", url="https://github.com/TR-TECH-GUIDE/Amanda"
+            text="📜Source", url="https://github.com/davethecrazyiest/Amanda"
         ),
         InlineKeyboardButton(
             text="❔ Help", url="http://t.me/TheAmandabot?start=help"
@@ -110,9 +110,7 @@ HELP_STRINGS = f"""
 )
 
 
-DONATE_STRING = """Hey, glad to hear you want to donate!
-You can donate to the original writer's of the Base code,
-Support them  [𝒯𝒽𝒶𝓇𝓊𝓀 ℛℯ𝓃𝓊𝒿𝒶](t.me/TharukRenuja)"""
+DONATE_STRING = """Hai Orang Baik, Terima Kasih Sudah Memakai BotNya Kamu Bisa Membantu Developer Mengembangkan Botnya Dengan Donasi Ke (Https://t.me/pixcatzo)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
