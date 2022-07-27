@@ -63,8 +63,8 @@ from Amanda.modules.helper_funcs.misc import paginate_modules
 from Amanda.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm LYN SUPPORT
-I'm a Powerful group manager bot With Cool Modules. Made by[CHIZIRO• 🇮🇩](t.me/craxydave)
+Hello there, I'm ᴍᴀꜱʜɪʀᴏ ꜱʜɪɪɴᴀ
+I'm a Powerful group manager bot With Cool Modules. Made by[CHIZIRO• 🇮🇩](t.me/pixcatzo)
 Hit /help to find my list of available commands
  
 """
@@ -88,7 +88,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➕ Add Amanda to your group ➕",
+            text="➕ Add ᴍᴀꜱʜɪʀᴏ ꜱʜɪɪɴᴀ to your group ➕",
             url="t.me/TheAmandabot?startgroup=true",
         ),
     ],
